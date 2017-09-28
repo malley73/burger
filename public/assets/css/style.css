@@ -16,34 +16,31 @@ html {
   grid-column-start: 3;
   grid-column-end: span 3;
   justify-self: center;
-  background-color: skyblue;
 }
 
 #menu {
   grid-column-start: 3;
   grid-column-end: span 3;
   justify-self: center;
-  background-color: skyblue;
 }
 
 #freshburgers {
   grid-column-start: 1;
   grid-column-end: span 3;
-  background-color: skyblue;
 }
 
 #devoured {
   grid-column-start: 7;
   grid-column-end: span 4;
-  background-color: skyblue;
 }
 
 #addburger {
   grid-column-start: 4;
   grid-column-end: span 2;
   grid-row-start: 3;
-  background-color: skyblue;
 }
+
+
 
 
 
